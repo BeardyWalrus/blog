@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+
+
+
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
@@ -17,6 +20,8 @@ layout: default
           {{ mdate | date: date_format }}
         </time>
       {%- endif -%}
+      {% include read_time.html %}
+
       {%- if page.author -%}
         • {% for author in page.author %}
           <span itemprop="author" itemscope itemtype="http://schema.org/Person">
@@ -29,6 +34,17 @@ layout: default
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
   </div>
+
+    <div class="post-tags">
+        <span>tags: [
+            {% for tag in page.tags %}
+                {% capture tag_name %}{{ tag }}{% endcapture %}
+                <a href="{{site.baseurl}}/tags#{{ tag_name }}">
+                    <nobr>{{ tag_name }}</nobr> 
+                </a>
+            {% endfor %}
+        ]</span>
+    </div>
 
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}

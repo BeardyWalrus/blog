@@ -1,3 +1,8 @@
+{% if site.tags != "" %}
+  {% include collecttags.html %}
+{% endif %}
+
+
 <!doctype html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>

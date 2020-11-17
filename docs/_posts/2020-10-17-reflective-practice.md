@@ -8,10 +8,11 @@ Reflecting on reflection, the topic of this week. To improve, you have to look b
 
 A quick audit and categorization of my reflective writing so far leaves me with the following count.
 
-* Cognitive - 1
-* Procedural - 2
-* Affective - 1
-* Dispositional - 1
+* [Cognitive]( {{ site.baseurl }}/tags#cognitive) - 1
+* [Procedural]( {{ site.baseurl }}/tags#procedural) - 2
+* [Affective]( {{ site.baseurl }}/tags#affective) - 1
+* [Dispositional]( {{ site.baseurl }}/tags#dispositional) - 1
+* [Interpersonal]( {{ site.baseurl }}/tags#interpersonal) - 0
 
 I do seem to be missing out on the Interpersonal domain a little, and upon reflection, communication is an area I do struggle with, and I think that most of my problem solving and decision making skills tend do be social oriented, in that, I like to talk them through before coming to a final decision or solution.
 
