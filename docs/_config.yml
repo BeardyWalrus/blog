@@ -33,6 +33,9 @@ theme: jekyll-theme-midnight
 plugins:
   - jekyll-feed
 
+show_downloads: false
+#google_analytics: UA-xxxxxxxx
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
