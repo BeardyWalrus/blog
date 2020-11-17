@@ -5,6 +5,7 @@ category: development-practice
 tags: procedural dispositional
 ---
 **Reflect on-action** - What critical incidents led you to enrol on the course?
+
 * A tweet from a marketeer (Peep Laja 2020) I respect indicating he does not understand why people play games and should be solving business problems instead. While I don’t agree with the premise, it made me think about the time I spend on non-productive activities.
 * My wife was accepted into an MA in Illustration course, which led me to consider the option of a Masters degree.
 * The company I work for has very rigid employment requirements, including a 4-year degree for my current rank for which I required CEO approval for an exception. A Masters degree is required for promotion.

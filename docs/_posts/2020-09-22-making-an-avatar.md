@@ -5,10 +5,7 @@ date:   2020-09-22 19:40:05 -0500
 category: development-practice
 tags: procedural week-1
 ---
-
-## The Challenge:
-
-Make an Avatar out of things around your home that must tell a story, or mean something to you.
+This week's challenge is to make an Avatar out of things around your home that must tell a story, or mean something to you.
 
 ## The Research:
 
