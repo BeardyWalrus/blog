@@ -2,7 +2,7 @@
 layout: post
 title:  "Reflective Practice"
 category: development-practice
-tags: procedural affective
+tags: procedural affective week-8 reflection
 ---
 Reflecting on reflection, the topic of this week. To improve, you have to look back at yourself; this applies to the skill of looking back at yourself—a little meta, or recursive, which also tends to lead to the most efficient process.
 
