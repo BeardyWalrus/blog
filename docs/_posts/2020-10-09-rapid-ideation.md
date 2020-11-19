@@ -5,9 +5,9 @@ category: development-practice
 tags: affective
 ---
 
-This weeks challenge was to deconstruct and prototype an artefact you find interesting. Anyone that’s worked with me, knows I find a lot of things very interesting, and will often find me down a rabbit hole, shaving a yak.
+This week's challenge was to deconstruct and prototype an artefact you find interesting. Anyone that’s worked with me, knows I find a lot of things very interesting, and will often find me down a rabbit hole, shaving a yak.
 
-Looking at the spark board, and other students submissions for inspiration, obviously, it should be a game, but which one. Some students are picking modern story-based games, others, games from their childhood. Most are doing very detailed storyboards of beautiful narrative deconstructions.
+Looking at the spark board, and other student's submissions for inspiration, obviously, it should be a game, but which one. Some students are picking modern story-based games, others, games from their childhood. Most are doing very detailed storyboards of beautiful narrative deconstructions.
 
 I have most recently been interested in the mechanics of incremental, or idle games. This is a relatively new subgenre of games, originally created as a parody or a reductio ad absurdum of progress mechanics (Deterding 2016). I find the genre particularly interesting, as there is no punishment for not playing the games for long periods of time, in fact, there are sometimes rewards for leaving the game and returning many hours, days or even years later.
 
@@ -17,7 +17,7 @@ I have chosen the Apple iPad version for this challenge. Resetting the applicati
 
 ![Spaceplan - Simple Layout]({{ site.baseurl }}/assets/images/spaceplan-1.jpg)
 
-There is no real tutorial, and the complex layers of the game are very gradually introduced and while not explained, you are encouraged to try clicking on things to see how they work. The UI is fairly intuitive, and rewards experimentation. Clicking on sections switches the UI and includes humorous anecdotes about potatoes. The story develops in the top right hand window, and sometimes you can miss important elements of dialog and next steps as it scrolls past if you’re upgrading or building new generators.
+There is no real tutorial, and the complex layers of the game are very gradually introduced and while not explained, you are encouraged to try clicking on things to see how they work. The UI is fairly intuitive, and rewards experimentation. Clicking on sections switches the UI and includes humorous anecdotes about potatoes. The story develops in the top right-hand window, and sometimes you can miss important elements of dialog and next steps as it scrolls past if you’re upgrading or building new generators.
 
 ![Spaceplan - Dialog]({{ site.baseurl }}/assets/images/spaceplan-2.jpg)
 

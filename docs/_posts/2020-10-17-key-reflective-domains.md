@@ -12,16 +12,16 @@ Avoid merely describing the context and description. Evaluation and analysis is 
 time management, motivation, behaviour, discipline
 
 ## Affective domain
-feelings, experiences and emotions. call upon emotional intelligence. be aware of emotions. self assessment. 
+feelings, experiences and emotions. call upon emotional intelligence. be aware of emotions. self-assessment. 
 
 ## Interpersonal domain
-verbal and non verbal communication. problem solving and decision making. 
+verbal and non-verbal communication. problem-solving and decision making. 
 
 ## Cognitive domain
 strengths and weaknesses to my approach to learning. 
 
 ## Procedural domain
-Assess skills you already have, and how to get better.
+Assess the skills you already have, and how to get better.
 
 
 Additional Research 

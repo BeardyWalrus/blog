@@ -10,7 +10,7 @@ I achieved a level of enlightenment on understanding what the module is about. I
 
 This is absolutely not what I was expecting when researching different courses to take, in fact, given I was looking at other MPhil courses, seems very appropriate. It reminds me of other times in my life, where, whichever path I would have taken, the timeline would eventually converge.
 
-Back in 1997, I applied for bachelors degrees at two universities, Nottingham Trent, and Bristol. These were both sandwich degrees, where the third year of study is spent in industry. I was accepted to both and chose Nottingham Trent.
+Back in 1997, I applied for bachelor's degrees at two universities, Nottingham Trent, and Bristol. These were both sandwich degrees, where the third year of study is spent in industry. I was accepted to both and chose Nottingham Trent.
 
 During my interviews for my industrial placement, I was presented with the opportunity to move to Germany and work for a research institute. I lept at the chance. A few emails exchanged with a PhD student who was to be my mentor and some other students who were currently on placement, I packed my suitcase, took a flight and a train to a city in Germany I couldn't pronounce, let alone spell. Spending the first night sleeping on a mattress in the attic of a student from Bristol University I thought nothing of it. Over the next year, I met 4 other Bristol university students, 3 of which were on the same course I would have chosen.
 

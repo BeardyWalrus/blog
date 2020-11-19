@@ -7,8 +7,8 @@ tags: procedural dispositional week-5 challenge-activity
 **Reflect on-action** - What critical incidents led you to enrol on the course?
 
 * A tweet from a marketeer (Peep Laja 2020) I respect indicating he does not understand why people play games and should be solving business problems instead. While I don’t agree with the premise, it made me think about the time I spend on non-productive activities.
-* My wife was accepted into an MA in Illustration course, which led me to consider the option of a Masters degree.
-* The company I work for has very rigid employment requirements, including a 4-year degree for my current rank for which I required CEO approval for an exception. A Masters degree is required for promotion.
+* My wife was accepted into an MA in Illustration course, which led me to consider the option of a Master's degree.
+* The company I work for has very rigid employment requirements, including a 4-year degree for my current rank for which I required CEO approval for an exception. A Master's degree is required for promotion.
 * I’ve been maintaining a notebook of different game ideas for about 20 years, and need some motivation to do something with it.
 
 **Reflect in-action** - What critical incidents, if any, are you experiencing?
