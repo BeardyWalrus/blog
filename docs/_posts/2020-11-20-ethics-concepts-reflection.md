@@ -12,7 +12,7 @@ Market research is an important part of game design, even if I only want to buil
 
 ### Exploration of communities
 
-Engaging and participating in communities [citation needed] is an important way to not only further your education, but as support and idea generation. Game Jams were fun, however the time requirements on developing new games from scratch is too disruptive. The meshtastic community is active and well engaged but very specialist. Reddit has a number of communities relating to game design, game development, or specific game genres including tycoon, base building and incrementals. 
+Engaging and participating in communities is an important way (Collins 2018) to not only further your education, but as support and idea generation. Game Jams were fun, however the time requirements on developing new games from scratch is too disruptive. The meshtastic community is active and well engaged but very specialist. Reddit has a number of communities relating to game design, game development, or specific game genres including tycoon, base building and incrementals. 
 
 The subreddits in general are very positive, providing general encouragement and recommendations on new discoveries. I believe these may be a good area to explore for audience research and idea generation. Reflecting on the general principles of ethics 
 
@@ -27,21 +27,11 @@ The subreddits in general are very positive, providing general encouragement and
   
 By approaching each of the general principles, I feel more confident in approaching and applying for research authorization in the future. 
 
-### Further considerations
-
-Know your customers
-Systematical Evaluation
-- Explore variance and covariance
-- Things may not be obvious to your audience
-- Understand why people think differently
-  - Qualitative & Quantitative differences
-(Erik Geelhoed)
-
-### Actions
+### Future Actions
 - Ethical Dilemmas (Robson 1993:33)
 - Explore doing a cognitive walkthrough where the user explains what it is they are doing and why.
 - Consider how audience research could be applied to rapid ideation artifacts
-- Document problem-solving research 
-  - Helium antenna
-  - HVAC videos
-  - Substation troubleshooting
+  
+  
+### References
+COLLINS, Harry. 2018. ‘A Sociological/Philosophical Perspective on Expertise: The Acquisition of Expertise through Socialization’. In Robert EVANS, K. Anders ERICSSON, Robert R. HOFFMAN, and Aaron KOZBELT (eds.). Cambridge Handbook of Expertise and Expert Performance. Cambridge University Press. Available at: http://ezproxy.falmouth.ac.uk:2048/login?qurl=https%3A%2F%2Fsearch.credoreference.com%2Fcontent%2Fentry%2Fcupexpert%2Fa_sociological_philosophical_perspective_on_expertise_the_acquisition_of_expertise_through_socialization%2F0 [accessed 20 Nov 2020].
