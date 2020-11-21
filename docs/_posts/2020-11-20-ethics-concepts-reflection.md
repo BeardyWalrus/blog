@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ethics Concepts"
-date:   2020-11-17 
+date:   2020-11-20
 category: development-practice
 tags: week-8 reflection cognitive interpersonal
 ---

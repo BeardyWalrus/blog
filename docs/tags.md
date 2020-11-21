@@ -5,7 +5,9 @@ permalink: /tags/
 ---
 {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
 
-{% for tag in site.tags %}
+{% assign sorted_tags = site.tags | sort %}
+
+{% for tag in sorted_tags %}
   <h3><a name="#{{ tag[0] }}"></a>{{ tag[0] }} </h3>
   <ul>
     {% for post in tag[1] %}
