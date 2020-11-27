@@ -2,7 +2,7 @@
 layout: post
 title:  "Rapid Ideation — Prototyping"
 category: development-practice
-tags: affective
+tags: affective week-03 challenge-activity
 ---
 
 This week's challenge was to deconstruct and prototype an artefact you find interesting. Anyone that’s worked with me, knows I find a lot of things very interesting, and will often find me down a rabbit hole, shaving a yak.

@@ -3,7 +3,7 @@ layout: post
 title:  "Rapid Ideation : Sprint 1 - Pirate Incremental"
 date:   2020-10-30 
 category: development-practice
-tags: week-6 reflection dispositional interpersonal
+tags: week-06 reflection dispositional interpersonal
 ---
 
 While considering my main goal for the rapid ideation sprint, I decided to focus upon my ideation and design. These are areas I typically do not spend significant effort on, preferring to get right into the code and start with something minimal and then build it out.

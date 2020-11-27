@@ -2,7 +2,7 @@
 layout: post
 title:  "Rapid Ideation 2.5"
 category: development-practice
-tags: 
+tags: week-08
 ---
 
 I am now in the middle of week 2 of the second rapid ideation session. I am focusing on building an interactive artefact.

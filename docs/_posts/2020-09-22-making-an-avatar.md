@@ -3,7 +3,7 @@ layout: post
 title:  "Making an Avatar"
 date:   2020-09-22 19:40:05 -0500
 category: development-practice
-tags: procedural week-1
+tags: procedural week-01
 ---
 This week's challenge is to make an Avatar out of things around your home that must tell a story, or mean something to you.
 

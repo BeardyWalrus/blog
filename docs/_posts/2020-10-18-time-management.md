@@ -2,7 +2,7 @@
 layout: post
 title:  "Time and Project Management"
 category: development-practice
-tags: procedural dispositional
+tags: procedural dispositional week-04
 ---
 My first challenge, the Avatar included a time and project management book, which I have still yet to complete. While I do not consider myself a time and project management master, it is an area that I feel I have some experience in and have found some systems that work for me.
 

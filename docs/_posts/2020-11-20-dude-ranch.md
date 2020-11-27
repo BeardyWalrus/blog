@@ -3,7 +3,7 @@ layout: post
 title:  "Rapid Ideation 2: Crazy Jakes Dude Ranch"
 date:   2020-11-20 
 category: development-practice
-tags: week-9 reflection procedural affective cognitive dispositional
+tags: week-09 reflection procedural affective cognitive dispositional
 ---
 
 Results and reflection from the 2nd rapid ideation sprint.

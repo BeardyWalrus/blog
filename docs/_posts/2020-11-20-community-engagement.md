@@ -3,7 +3,7 @@ layout: post
 title:  "Community Engagement"
 date:   2020-11-20 
 category: development-practice
-tags: week-9 challenge-activity dispositional
+tags: week-09 challenge-activity dispositional
 ---
 This week's task is to select and engage in a community. 
 

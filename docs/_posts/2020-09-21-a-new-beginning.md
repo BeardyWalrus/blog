@@ -4,7 +4,7 @@ title:  "A New Beginning"
 date:   2020-09-21 19:40:05 -0500
 modified_date: 2020-11-17
 category: development-practice
-tags: cognitive week-1
+tags: cognitive week-01
 ---
 
 First challenge complete. Which blogging platform to choose? Clearly, I chose Medium. Why? Well, I love WordPress. I’ve used it for years and built multiple websites, plugins and themes. It can do so much, and that is pretty much the reason for choosing Medium. I don’t want to get distracted by all things it can do.

@@ -3,7 +3,7 @@ layout: post
 title:  "Ethics Review - Challenge"
 date:   2020-11-17 
 category: development-practice
-tags: week-8 challenge-activity interpersonal
+tags: week-08 challenge-activity interpersonal
 ---
 
 This week we were posed with three research scenarios, and had to pose an ethical or risk rating for the study. I take this a step further and pose some followup questions or direction. 

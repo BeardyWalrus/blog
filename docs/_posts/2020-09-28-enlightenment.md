@@ -2,8 +2,7 @@
 layout: post
 title:  "Enlightenment — Convergence"
 category: development-practice
-tags: procedural
-# procedural, "week 1"
+tags: procedural week-01
 ---
 
 I achieved a level of enlightenment on understanding what the module is about. I have been thinking about the assignment in more detail, specifically the very vague and generous rails and definition. The idea, at least in my mind, is to give our minds room to grow, and explore what happens when limits are removed.
