@@ -3,7 +3,7 @@ layout: post
 title:  "Ethics Concepts"
 date:   2020-11-20
 category: development-practice
-tags: week-08 reflection cognitive interpersonal
+tags: week-08 reflection cognitive interpersonal ethics
 ---
 
 Reflections on the ethics concepts, along with the requirements and goals of upcoming research.
