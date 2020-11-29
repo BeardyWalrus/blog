@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Personas: Additional Research"
-date:   2020-11-29
+date:   2020-11-29 11:00:00 -0500
 category: development-practice
 tags: week-10 research
 ---
@@ -64,6 +64,8 @@ The consideration by Lazzaro 2004, results in the identification of 4 key driver
 > 4. The People Factor: Players use games as mechanisms for social experiences. 
 
 They go on to identify a relationship between the gameplay reasons and desired emotional outcomes. This mapping would allow a diligent designer to ensure that their game remains emotionally balanced and relevant. 
+
+### References
 
 - RUBIN, K.S. 2012. Essential Scrum: A Practical Guide to the Most Popular Agile Process. Pearson Education. Available at: https://books.google.com/books?id=3vGEcOfCkdwC.
 - ARDATH, A. 2020. 'Buyer Personas'. Marketing Interactions [online]. Available at: https://marketinginteractions.com/buyer-personas/ [accessed 26 Nov 2020].
