@@ -39,5 +39,7 @@ I believe I can translate this into more effective and deliberate communication 
 ### References
 
 - ‘Definition - What Is a Personal Brand?’ n.d. PersonalBrand.com [online]. Available at: https://personalbrand.com/definition/ [accessed 28 Nov 2020].
+
 - ALEX BIRKETT. 2016. 'Cialdini's 7th Persuasion Principle: Using Unity in Online Marketing'. CXL [online]. Available at: https://cxl.com/blog/cialdini-unity/ [accessed 29 Nov 2020].
+
 - CIALDINI, R. 2016. Pre-Suasion: A Revolutionary Way to Influence and Persuade. Simon & Schuster. Available at: https://books.google.com/books?id=GI7tDAAAQBAJ.

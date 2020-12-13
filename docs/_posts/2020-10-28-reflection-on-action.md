@@ -19,6 +19,6 @@ tags: procedural dispositional week-05 challenge-activity
 * Make use of the skills and techniques I’m learning and apply them to my work projects to increase my practice time.
 * I have been avoiding using my notebook ideas, not wanting to waste them. I will make use of these.
 
-## References
+### References
 
-PEEP LAJA. 2020. [online]. Available at: https://twitter.com/peeplaja/status/1256614777075490817 [accessed 28 Oct 2020].
+- PEEP LAJA. 2020. [online]. Available at: https://twitter.com/peeplaja/status/1256614777075490817 [accessed 28 Oct 2020].

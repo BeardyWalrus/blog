@@ -48,6 +48,6 @@ Regularly scheduled let's play sessions, billed as play, chat, or watch experien
 
 ### References 
 
-DWECK, Carol S. 2010. 'Boosting Achievement with Messages That Motivate'. Education Canada 47(2), 5.
+- DWECK, Carol S. 2010. 'Boosting Achievement with Messages That Motivate'. Education Canada 47(2), 5.
 
 [2] https://www.designoriented.net/wheel 

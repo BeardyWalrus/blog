@@ -38,9 +38,9 @@ While graphics development is incredibly difficult for me, without practice, it 
 
 ### References
 
-DWECK, Carol S. 2010. ‘Boosting Achievement with Messages That Motivate’. Education Canada 47(2), 5.
+- DWECK, Carol S. 2010. ‘Boosting Achievement with Messages That Motivate’. Education Canada 47(2), 5.
 
-VYGOTSKY, L. S. 1978. Mind in Society. Harvard University Press. Available at: http://www.jstor.org/stable/j.ctvjf9vz4 [accessed 18 Nov 2020].
+- VYGOTSKY, L. S. 1978. Mind in Society. Harvard University Press. Available at: http://www.jstor.org/stable/j.ctvjf9vz4 [accessed 18 Nov 2020].
 
-SCOTT, Michael James and Gheorghita GHINEA. 2013. ‘Educating Programmers: A Reflection on Barriers to Deliberate Practice’. arXiv:1311.0390 [cs] [online]. Available at: http://arxiv.org/abs/1311.0390 [accessed 18 Nov 2020].
+- SCOTT, Michael James and Gheorghita GHINEA. 2013. ‘Educating Programmers: A Reflection on Barriers to Deliberate Practice’. arXiv:1311.0390 [cs] [online]. Available at: http://arxiv.org/abs/1311.0390 [accessed 18 Nov 2020].
 

@@ -19,3 +19,7 @@ I do seem to be missing out on the Interpersonal domain a little, and upon refle
 It was also apparent that my Affective domain reflection is relatively weak. While I do consider my emotions, I do not find that they help with learning, and for the most part dismiss them, as my success has often been in spite of my emotions and feelings suggesting that a particular course of action, or decision may be incorrect.
 
 I’m going to focus on the SMART goals in my next blog, which will focus on the current sprint of the slow game Jam.
+
+### References
+
+- MARKUS, Keith A. and Denny BORSBOOM. 2013. ‘Reflective Measurement Models, Behavior Domains, and Common Causes’. New Ideas in Psychology 31(1), 54–64.

@@ -68,3 +68,9 @@ I will start with a smaller MVP and build on that, but the individual tasks, com
 ![Initial UI Prototype]({{ site.baseurl }}/assets/images/initial-ui-prototype.png)
 
 ![Revised UI Prototype]({{ site.baseurl }}/assets/images/revised-ui-prototype.png)
+
+### References
+- LEESON, Peter T. 2007. ‘An‐ Arrgh ‐chy: The Law and Economics of Pirate Organization’. The Journal of political economy 115(6), 1049–94.
+
+- DEMARCO, Tom. 2013. Peopleware: Productive Projects and Teams. Addison-Wesley Professional.
+

@@ -13,3 +13,7 @@ I dedicate time to reviewing my task list and breaking the large projects that a
 I do struggle with time prediction. Often expecting things to take considerably longer than they do in most cases. However, in other scenarios, projects take orders of magnitude more effort and time to achieve the same level of completion or quality. The key differences between these scenarios may be the level of preparation and research on the areas surrounding the tasks. The foundational elements or learnings needed to complete them.
 
 For the upcoming slow game Jam, I’m going to spend more time on research and preparation than I would normally, and will more carefully plan out the things I need to learn and know in order to make the project a success. The definition of success will come from the plan.
+
+### References
+
+- ROGERS, Scott. 2014. Level up! The Guide to Great Video Game Design. New York: John Wiley & Sons, Incorporated.

@@ -68,7 +68,11 @@ They go on to identify a relationship between the gameplay reasons and desired e
 ### References
 
 - RUBIN, K.S. 2012. Essential Scrum: A Practical Guide to the Most Popular Agile Process. Pearson Education. Available at: https://books.google.com/books?id=3vGEcOfCkdwC.
+
 - ARDATH, A. 2020. 'Buyer Personas'. Marketing Interactions [online]. Available at: https://marketinginteractions.com/buyer-personas/ [accessed 26 Nov 2020].
+
 - CANOSSA, Alessandro and Anders DRACHEN. 2009. 'Play-Personas: Behaviours and Belief Systems in User-Centred Game Design'. In Tom GROSS et al. (eds.). Human-Computer Interaction – INTERACT 2009. 510–23.
+
 - DAVIS, John P, Keith STEURY and Randy PAGULAYAN. 2005. 'A Survey Method for Assessing Perceptions of a Game: The Consumer Playtest in Game Design'. Game Studies 5(1), 1–13.
+
 - LAZZARO, Nicole. 2004. ‘Why We Play Games: Four Keys to More Emotion Without Story’ 8.

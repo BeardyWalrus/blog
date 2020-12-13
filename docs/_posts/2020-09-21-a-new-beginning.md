@@ -15,4 +15,4 @@ Now, onto the next challenge.
 
 ### UPDATE
 
-So, you may be able to see that I've switched blog platforms. To read more, check out the [reflective post]({{ site.baseurl }}{% post_url 2020-11-16-a-new-blog %})
+So, you may be able to see that I've switched blog platforms. To read more, check out the [reflective post]({{ site.baseurl }}{% post_url 2020-12-5-version-control %})

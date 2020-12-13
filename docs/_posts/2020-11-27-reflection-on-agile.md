@@ -54,7 +54,13 @@ Applying this process to my first rapid ideation would have led me to spend sign
 ### References 
 
 - KEITH, C. 2010. Agile Game Development with Scrum. Pearson Education. 
+
 - HANNAY, J. E., H. C. BENESTAD and K. STRAND. 2017. ‘Benefit Points: The Best Part of the Story’. IEEE Software 34(3), 73–85.
+
 - ‘Principles behind the Agile Manifesto’. 2020. [online]. Available at: http://agilemanifesto.org/principles.html [accessed 27 Nov 2020].
+
 - FILIATRAULT, Damien. 2020. ‘Using Scrum, What Is a Good Method to Calculate Story Points on the Planning? - Quora’. [online]. Available at: https://www.quora.com/Using-Scrum-what-is-a-good-method-to-calculate-Story-Points-on-the-planning [accessed 27 Nov 2020].
+
 - RUBIN, K.S. 2012. Essential Scrum: A Practical Guide to the Most Popular Agile Process. Pearson Education. Available at: https://books.google.com/books?id=3vGEcOfCkdwC.
+
+- BABB, Jeffry, Rashina HODA and Jacob NORBJERG. 2014. ‘Embedding Reflection and Learning into Agile Software Development’. IEEE Software 31(4), 51–7.
