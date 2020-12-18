@@ -33,4 +33,5 @@ By approaching each of the general principles, I feel more confident in approach
 - Consider how audience research could be applied to rapid ideation artifacts
   
 ### References
+
 - COLLINS, Harry. 2018. ‘A Sociological/Philosophical Perspective on Expertise: The Acquisition of Expertise through Socialization’. In Robert EVANS, K. Anders ERICSSON, Robert R. HOFFMAN, and Aaron KOZBELT (eds.). Cambridge Handbook of Expertise and Expert Performance. Cambridge University Press. Available at: http://ezproxy.falmouth.ac.uk:2048/login?qurl=https%3A%2F%2Fsearch.credoreference.com%2Fcontent%2Fentry%2Fcupexpert%2Fa_sociological_philosophical_perspective_on_expertise_the_acquisition_of_expertise_through_socialization%2F0 [accessed 20 Nov 2020].

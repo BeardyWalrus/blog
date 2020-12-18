@@ -28,7 +28,7 @@ There is a dedicated channel to daily challenges based on a weekly theme, includ
 
 Marcus Terrell (https://twitter.com/DrHadji) - November 17, 2020
 
-A second topic was Kishoutenketsu style, where an entire story arc is told in 4 panels. 
+A second topic was Kishoutenketsu style, where an entire story arc is told in 4 panels.  (Bagoum 2019)
 * The Introduction (Ki)
 * The Development (Shou)
 * The Twist (Ten)
@@ -49,5 +49,7 @@ Regularly scheduled let's play sessions, billed as play, chat, or watch experien
 ### References 
 
 - DWECK, Carol S. 2010. 'Boosting Achievement with Messages That Motivate'. Education Canada 47(2), 5.
+
+- BAGOUM. 2019. ‘Understanding Kishoutenketsu’. Medium [online]. Available at: https://bagoum.medium.com/understanding-kishoutenketsu-d7cf0c5ce642 [accessed 12 Dec 2020].
 
 [2] https://www.designoriented.net/wheel 
