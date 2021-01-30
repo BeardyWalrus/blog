@@ -28,11 +28,13 @@ url: "https://beardywalrus.github.io" # the base hostname & protocol for your si
 #twitter_username: jekyllrb
 github_username:  beardywalrus
 show_excerpts: true
+author: Phil Lakin
 
 # Build settings
 theme: jekyll-theme-midnight
 plugins:
   - jekyll-feed
+#  - jekyll-admin
 
 show_downloads: false
 #google_analytics: UA-xxxxxxxx
