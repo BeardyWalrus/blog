@@ -5,7 +5,7 @@ category: game-development
 tags: week-2 spark
 ---
 
-## Stardew Valley
+For this week's spark activity, I chose Stardew valley, which embodies the initially simple concept of a farming RPG sandbox but turns into a much deeper open ended low stress journey. 
 
 ### 1. Game Mechanics
 Control a player who builds and renovates a farm, goes fishing and monster hunting. Farmed ingredients can be used to cook food for health. Additional environment or monsters can be harvested for components to upgrade buildings or increase relationship standing with town residents. Multiplayer functionality allows cooperative management. 
