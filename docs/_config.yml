@@ -36,6 +36,8 @@ plugins:
   - jekyll-feed
 #  - jekyll-admin
 
+repository: beardywalrus.github.io/blog
+
 show_downloads: false
 #google_analytics: UA-xxxxxxxx
 disqus:
