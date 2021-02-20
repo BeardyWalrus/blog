@@ -5,7 +5,11 @@ category: game-development
 tags: week-4 challenge 
 ---
 
-Narrative design was the challenge this week, focusing on another aspect of game design to set your gameplay apart from the masses. The spark forum post was focused on reviewing a known game with a strong narative. This helped set the scene and brought  concepts to the forefront of your imagination. Considering the innovation within this narrative outline below, I am not convinced that the actual implementation of all these features within my game prototype will significantly improve its game feel. Renaud Forestié (Best Practices for Fast Game Design in Unity 2018) suggests that focusing on the foundation and experimenting around that, rather than going for a full featured prototype. Given the genre mix I am aiming for, and the issues flagged with my initial rounds of user testing, along with my ambition of being a V shaped designer leads me to the decision to focus on the game feel, juice and be satisfied with the outline below, until more time is available to implement it.
+Narrative design was the challenge this week, focusing on another aspect of game design to set your gameplay apart from the masses. The spark forum post was focused on reviewing a known game with a strong narative. This helped set the scene and brought  concepts to the forefront of your imagination. 
+
+Considering the innovation within this narrative outline below, I am not convinced that the actual implementation of all these features within my game prototype will significantly improve its game feel. 
+
+Renaud Forestié (Best Practices for Fast Game Design in Unity 2018) suggests that focusing on the foundation and experimenting around that, rather than going for a full featured prototype. Given the genre mix I am aiming for, and the issues flagged with my initial rounds of user testing, along with my ambition of being a V shaped designer leads me to the decision to focus on the game feel, juice and be satisfied with the outline below, until more time is available to implement it.
 
 ### 1. Setting
 The world is similar to ours, loosely set in the pirating times, around 1700. Ships will be wind or crew powered, with no steam. The location will be fictional, not based on any real geography, mostly archipelago, to provide obstacles to navigate.  The laws are primarily realistic in that there will be no laser weapons, but combat, ship speed, and weapon damage may be exaggerated to fantastic levels by ship upgrades. 
