@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Untitle Pirate Game - Game Design Outline"
+title:  "Untitled Pirate Game - Game Design Outline"
 category: game-development
 tags: week-2 challenge reflection
 ---
