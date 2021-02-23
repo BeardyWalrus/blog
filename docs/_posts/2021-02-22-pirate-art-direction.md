@@ -46,15 +46,34 @@ The fourth and final suggests options for indicating progression and captain ran
 
 While these mood boards help set the scene, having some more background helps imagine the game further. Some early sketches for tiers of ships, and visual options for showing the possible arcs of fire. 
 
+![Early-Sketches]({{ site.baseurl }}/assets/images/early-sketches.jpeg)
+
 A second area I struggle with is UI, so I tried a crazy eight to try and come up with some ideas for screen layouts. I found this particularly helpful to be able to play with different ideas and see which fit the style best. 
 
+![UI-Ideas]({{ site.baseurl }}/assets/images/ui-ideas.jpeg)
+
 It also helped me think about essential components - such as a portrait, and how best to incorporate the upgrade system which will be a core component of the game. 
+
+![Critical-Components]({{ site.baseurl }}/assets/images/critical-components.jpeg)
 
 ### Modeling
 
 Experimenting with the asset forge application helps rapid prototype simple 3d objects and export them as sprites. I'm going to experiment with importing these into the game to improve on the grey box prototype. 
 
 ![Ship-Model]({{ site.baseurl }}/assets/images/ship-model.png)
+
+Asset forge also has a great sprite export function, allowing the model to be converted into 16 direction sprite with ease. 
+
+![16-sprites]({{ site.baseurl }}/assets/images/boats-16.png)
+
+
+### Colours
+
+I sampled some colours I thought would would fit well with both a hipster vibe, and created a more desaturated version to help with blending and hilights. I think this is quite an extensive pallete, and doubt I'll use all of these once I get started. 
+
+![Colors]({{ site.baseurl }}/assets/images/colors.png)
+
+
 
 ### References
 
